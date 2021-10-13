@@ -20,6 +20,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 
 Git Hub Repo:
-
+https://github.com/axv50/note-taker11
 
 Working Site:
+https://axv50.github.io/note-taker11/
